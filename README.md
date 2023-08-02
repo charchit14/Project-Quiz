@@ -1,7 +1,7 @@
 # Project-Quiz
 This is a simple quiz game created in python programming language. It consists of sevreal text and programming files.
 
-#How to run/play this program/game.
+# How to run/play this program/game.
 
 Step 1:
 Run the 'main.py' file
