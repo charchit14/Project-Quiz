@@ -11,14 +11,14 @@ while True:
         padding = " " * int(padding_width)                          #This tells to put spaces " " in either side of the text
         return f"{padding}{any_string}"                             #Finally, message is put after the spaces
 
-    message1 = "*** THIS IS A QUIZ GAME ***"
+    message1 = "*** WELCOME TO THE QUIZ GAME ***"
     message2 =  "Choose from the available options"
 
     print()
     print(center_text(message1))
     print()
     print(center_text(message2))
-    print("1. Play Quiz\n2. View High Score\n3. Add Question\n4. View Questions\n5. Exit")
+    print("1. Play Quiz\n2. View High Score\n3. Add Question\n4. View Questions & Answers\n5. Exit")
     print()
     
     #This is the main section of code i.e. to get input and take actions accordingly
