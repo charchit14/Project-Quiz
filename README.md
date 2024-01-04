@@ -1,3 +1,6 @@
+# (To view the code, navigate to 'master' branch)
+<br>
+
 # Project-Quiz
 This is a simple quiz game created in python programming language. It consists of several programming and text files.
 
