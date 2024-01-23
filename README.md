@@ -2,7 +2,7 @@
 <br>
 
 # About this repository
-This is a simple quiz game created in python programming language. It consists of several programming and text files.
+This is a simple quiz game created in python programming language consisting several programming and text files. It can be played via terminal.
 
 ## How to run/play this program/game
 
